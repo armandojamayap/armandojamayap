@@ -37,7 +37,7 @@ Ingeniero de Sistemas y desarrollador full-stack desde 2015. Construyo aplicacio
 
 La mayor parte de mi trabajo está en repositorios privados de clientes y empresas, por eso no aparece aquí.
 
-- **Portafolio:** demos en vivo de más de 40 proyectos (acceso bajo solicitud): [portfolio.stacknap.com](https://portfolio.stacknap.com)
+- **Portafolio:** demos en vivo de mis proyectos (acceso bajo solicitud): [portfolio.stacknap.com](https://portfolio.stacknap.com)
 - **Behance:** casos de estudio con capturas y tecnologías: [behance.net/ArmandoAmaya](https://www.behance.net/ArmandoAmaya)
 - **LinkedIn:** [linkedin.com/in/armandoamaya](https://www.linkedin.com/in/armandoamaya/)
 
@@ -62,6 +62,6 @@ Systems Engineer building web applications end to end since 2015: admin dashboar
 
 Most of my work lives in private client and company repositories, so it doesn't show up here.
 
-- **Portfolio:** live demos of 40+ projects (access on request): [portfolio.stacknap.com](https://portfolio.stacknap.com)
+- **Portfolio:** live demos of my projects (access on request): [portfolio.stacknap.com](https://portfolio.stacknap.com)
 - **Behance:** case studies with screenshots and tech stacks: [behance.net/ArmandoAmaya](https://www.behance.net/ArmandoAmaya)
 - **LinkedIn:** [linkedin.com/in/armandoamaya](https://www.linkedin.com/in/armandoamaya/)
