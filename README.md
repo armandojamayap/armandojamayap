@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · APIs, Automation & AI-Assisted Development (LLMs)**
 
-[Español](#es) · [English](#en)
+[Español](#español) · [English](#english)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-portfolio.stacknap.com-0F766E?style=for-the-badge)](https://portfolio.stacknap.com)
 [![Behance](https://img.shields.io/badge/Behance-ArmandoAmaya-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ArmandoAmaya)
@@ -17,8 +17,6 @@
 </div>
 
 ---
-
-<a id="es"></a>
 
 ## Español
 
@@ -44,8 +42,6 @@ La mayor parte de mi trabajo está en repositorios privados de clientes y empres
 - **LinkedIn:** [linkedin.com/in/armandoamaya](https://www.linkedin.com/in/armandoamaya/)
 
 ---
-
-<a id="en"></a>
 
 ## English
 
